@@ -251,7 +251,7 @@ m5 -124 c39 -33 39 -33 17 -45 -43 -23 -87 12 -75 57 7 29 11 28 58 -12z"
         </svg>
 
         <Link
-          href="mailto:ananthinindia@gmail.com"
+          href="mailto:ananthmchandra@gmail.com"
           className="flex items-center justify-center
 absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 bg-dark 
 text-light shadow-md border border-solid border-dark w-20 h-20 rounded-full
