@@ -7,7 +7,7 @@ import Link from "next/link";
 import React from "react";
 import project1 from "../../public/images/projects/shambhu.png";
 import project2 from "../../public/images/projects/mm.png";
-import project3 from "../../public/images/projects/fashion-studio-website.jpg";
+import project3 from "../../public/images/projects/creative portfolio.png";
 import project4 from "../../public/images/projects/samyafinalsmallest.gif";
 import project5 from "../../public/images/projects/fimsmallest.gif";
 import { motion } from "framer-motion";
