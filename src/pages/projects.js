@@ -219,8 +219,8 @@ const projects = () => {
                 title="Sambhulingeshwara Temple official website"
                 summary="A feature-rich Crypto Screener App using React, Tailwind CSS, Context API, React Router and Recharts. It shows detail regarding almost all the cryptocurrency. You can easily convert the price in your local currency."
                 img={project1}
-                link="https://shambhulingeshwara.vercel.app/"
-                github="https://github.com/AnanthChand/Shambhulingeshwara"
+                link="https://shambhu.vercel.app/"
+                github="https://github.com/AnanthChand/Shambhu"
               />
             </div>
             <div className="col-span-6 sm:col-span-12">
