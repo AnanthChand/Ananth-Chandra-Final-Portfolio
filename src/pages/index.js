@@ -47,10 +47,8 @@ export default function Home() {
                 "
               />
               <p className="my-4 text-base font-medium md:text-sm sm:text-xs">
-                The noble idea of bringing the real world to life transformed me
-                from being a novelist to becoming a web developer. Now I develop
-                tech with a background of a deductive reasoning of novelist and
-                empathetic nature of an artist.
+                With a novelist{"'"}s deductive reasoning and an artist{"'"}s empathetic
+                nature, I engage in web development and content writing.
               </p>
               <div className="flex items-center self-start mt-2 lg:self-center">
                 <Link
